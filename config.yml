@@ -63,7 +63,7 @@ shop-clear-task: true
 # Ativar o sistema de bolsa (yBolsa, NextEconomy, StormEconomy e HeroBolsa)
 bolsa: false
 
-# Permitir os jogadores colocarem placas apenas no plot
+# Permitir os jogadores colocarem placas apenas no plot.
 just-plot: false
 
 # Tipo padrão da placa
