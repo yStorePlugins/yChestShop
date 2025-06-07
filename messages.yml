@@ -81,3 +81,4 @@ chat:
   set-owner-admin: '&cVocê não pode mudar o dono da placa ADMIN.'
   set-owner-found: '&cNenhum shop encontrado.'
   set-owner: '&aVocê mudou o dono da placa para &f{player}&a.'
+  price-high: '&cVocê não pode definir um preço maior que {amount}.'
