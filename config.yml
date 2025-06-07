@@ -66,6 +66,10 @@ bolsa: false
 # Permitir os jogadores colocarem placas apenas no plot.
 just-plot: false
 
+# Preço máximo suportado na loja
+# deixe 0 para não ter limite.
+max-price: 0
+
 # Tipo padrão da placa
 # BUY - Players compram
 # SELL - Players vendem
