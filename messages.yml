@@ -82,3 +82,13 @@ chat:
   set-owner-found: '&cNenhum shop encontrado.'
   set-owner: '&aVocê mudou o dono da placa para &f{player}&a.'
   price-high: '&cVocê não pode definir um preço maior que {amount}.'
+
+  digit-friend-add: |
+
+    &aDigite no chat o nome do seu amigo que quer adicionar.'
+    &7para cancelar digite &ncancelar&7.'
+
+  friend-max: '&cEsta mina atingiu o limite máximo de amigos.'
+  friend-added: '&aVocê adicionou o jogador &7{player}&a na sua mina.'
+  friend-already-added: '&cEste jogador já está adicionado.'
+  friend-add-owner: '&cVocê não pode adicionar o dono como amigo na mina.'
